@@ -1,6 +1,5 @@
 # AymanSecNotes
 
-This repository contains all my notes. Feel free to use them or share them. 
 
 If there is any recommendation, wrong information please contact me at any time.
 
