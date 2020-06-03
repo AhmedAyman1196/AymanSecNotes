@@ -8,10 +8,11 @@ This is all my notes gathered in PDF format. This is a work in progress and hope
 
 ## Future plan :
 
-* Methodology
-* Bughunting (Tips , Methodolgy , maybe some writeups)
-* More web
-* Change files from PDF to Md format. (tedious so when I have time or if anyone knows a quick way)
+* Networks Notes.
+* Methodology.
+* Bughunting (Tips , Methodolgy , maybe some writeups).
+* More web.
+* Change files from PDF to Md format. (tedious so when I have time or if anyone knows a quick way).
 * Solve Challenges on other platform other than root-me.
 * Make a good push on hackthebox.
 * Tryhackme writeups.
