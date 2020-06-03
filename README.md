@@ -8,6 +8,8 @@ This is all my notes gathered in PDF format. This is a work in progress and hope
 
 ## Future plan :
 
+* For every folder I will gather all in one pdf to be a full cheatsheet.
+* Add Hyper Links in this readme to be easier to access all from here directly. (Special Thanks to Kawkab <3 for these two Suggestion)
 * Networks Notes.
 * Methodology.
 * Bughunting (Tips , Methodolgy , maybe some writeups).
