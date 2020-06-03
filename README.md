@@ -2,8 +2,14 @@
 
 This is all my notes gathered in PDF format. This is a work in progress and hopefully will grow more to an awsome repository. Alot of notes here are a result of self study so execuse me for any wrong info just let me know so I can change it. Also I am open to any tips or additions that anybody want to offer.
 
+## Recommendations
+
+* I would say the mobile is the most solid followed by Web , Machines.
+
 ## Future plan :
 
+* Methodology
+* Bughunting (Tips , Methodolgy , maybe some writeups)
 * More web
 * Change files from PDF to Md format. (tedious so when I have time or if anyone knows a quick way)
 * Solve Challenges on other platform other than root-me.
